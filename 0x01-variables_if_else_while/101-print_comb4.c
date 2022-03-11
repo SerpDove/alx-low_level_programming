@@ -18,6 +18,7 @@ int main(void)
 	int com = 44;
 
 	while (n1 <= 57)
+		/* your code goes there */
 	{
 		n2 = n1 + 1;
 		while (n2 <= 57)
